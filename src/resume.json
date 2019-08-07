@@ -1,0 +1,99 @@
+{
+	"name": "Dickens Alphonce Juma",
+	"email": "dickensjuma13@gmail.com",
+	"phone": "070-486-8023",
+	"image": "https://media.licdn.com/dms/image/C4E03AQE4plE_CdkuDA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=pvVMvBxWEhyWOJn8eok46Nf5AMgG7CITlR0G-nBQL64",
+	"website": "LakeHub Academy",
+	"twitter": "@juma_dickens",
+	"twitterURL": "https://twitter.com/juma_dickens",
+	"experiences" : [
+		{
+			"title" : "Full Stack Web Development Student ",
+			"period": "2019 - Present",
+			"company": "Lakehub, Kisumu",
+			"companyURL": "https://lakehub.co.ke/",
+			"details": "•Developer in 16-week, 680­hour, full stack web development immersive course. • Curriculum covers front and back end web development. Topics covered include HTML5, CSS3, JavaScript,NodeJs,ExpressJS, ReactJs,MongoDB the MERN stack. • Daily procedure included responsive site development, efficient code design, and key principles such as version control, continuous integration, design patterns and analytical thinking to solve problems."
+		}
+		
+	],
+	"projects": [
+		{
+			"name":"Fika Safe Project",
+			"url": "https://github.com/DickensJuma/EmployeeManagementSystem",
+			"detail": "A responsive application designed to help Saccos track their motocylce rides, and clients can request varification of a motorcyle rider though USSD short code using any network reachable phone"
+		},
+		{
+			"name":"EmployeeManagementSystem",
+			"url": "https://github.com/DickensJuma/EmployeeManagementSystem",
+			"detail": "A responsive Employee manangement system that can be used to create and manage Employee profile, apply for branch transfer request  and Employee Leave application"
+		},
+		
+		{
+			"name":"Pag-Kenya ",
+			"url": "https://github.com/DickensJuma/pag-kenya-official",
+			"detail": "A church official website that is integrated with registration and loging options and members can download spiritual books online" 
+		},
+		{
+			"name":"Protein-Tracker-Chrome-extension",
+			"url": "https://github.com/DickensJuma/Protein-Tracker-Chrome-extension",
+			"detail": "The Protein Tracker chrome extension you first should set your daily protein intake goal in grams.The main page of Protein Tracker app shows you the percentage of protein goal completed in the current day, also it shows you how much you protein you ate and how much protein you should eat to reach the protein goal."
+		}
+	],
+	"skills": [
+		
+		{
+			"name": "Javascript",
+			"percent": "90%"
+		},
+		{
+			"name": "ReactJS,NodeJS & ExpressJS",
+			"percent": "80%"
+		},
+		{
+			"name": "HTML5,Jade & CSS3",
+			"percent": "99%"
+		},
+		{
+			"name": "NoSQL Database(MongoDB)",
+			"percent": "70%"
+		},
+		{
+			"name": "Sketch & Photoshop",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Certificate in Fullstack Web Develoment",
+			"university": "LakeHub Academy",
+			"period": "2019"
+		},
+		{
+			"degree": "Diploma in Building Construction",
+			"university": "Thika Institute Technology",
+			"period": "2015 - 2018"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Profesional"
+		},
+		{
+			"name":"Kiswahili",
+			"details": "Native"
+		}
+	],
+	"interests": [
+		"Hiking",
+		"Table Tennising",
+		"Cooking",
+		"Coding"
+	]
+}
+
+
+
+
+
+
