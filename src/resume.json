@@ -8,7 +8,7 @@
 	"twitterURL": "https://twitter.com/juma_dickens",
 	"experiences" : [
 		{
-			"title" : "Full Stack Web Development Student ",
+			"title" : "Full Stack Software Developer Student ",
 			"period": "2019 - Present",
 			"company": "Lakehub, Kisumu",
 			"companyURL": "https://lakehub.co.ke/",
@@ -19,7 +19,7 @@
 	"projects": [
 		{
 			"name":"Fika Safe Project",
-			"url": "https://github.com/DickensJuma/EmployeeManagementSystem",
+			"url": "http://fikasafe.herokuapp.com/",
 			"detail": "A responsive application designed to help Saccos track their motocylce rides, and clients can request varification of a motorcyle rider though USSD short code using any network reachable phone"
 		},
 		{
@@ -30,7 +30,7 @@
 		
 		{
 			"name":"Pag-Kenya ",
-			"url": "https://github.com/DickensJuma/pag-kenya-official",
+			"url": "https://pag-kenya.herokuapp.com/",
 			"detail": "A church official website that is integrated with registration and loging options and members can download spiritual books online" 
 		},
 		{
@@ -54,17 +54,20 @@
 			"percent": "99%"
 		},
 		{
-			"name": "NoSQL Database(MongoDB)",
+			"name": "NoSQL Database(MongoDB) & mySql Database",
 			"percent": "70%"
 		},
 		{
 			"name": "Sketch & Photoshop",
 			"percent": "85%"
+		},{
+			"name": "Python ",
+			"percent": "45%"
 		}
 	],
 	"education": [
 		{
-			"degree": "Certificate in Fullstack Web Develoment",
+			"degree": "Certificate in Fullstack Software Develoment",
 			"university": "LakeHub Academy",
 			"period": "2019"
 		},
@@ -81,6 +84,10 @@
 		},
 		{
 			"name":"Kiswahili",
+			"details": "Native"
+		},
+		{
+			"name":"Luo",
 			"details": "Native"
 		}
 	],
