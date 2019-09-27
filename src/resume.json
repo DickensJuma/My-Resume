@@ -4,15 +4,18 @@
 	"phone": "070-486-8023",
 	"image": "https://media.licdn.com/dms/image/C4E03AQE4plE_CdkuDA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=pvVMvBxWEhyWOJn8eok46Nf5AMgG7CITlR0G-nBQL64",
 	"website": "LakeHub Academy",
+	"linkedin":"Dickens Juma",
+	"linkedinURL": "https://linkedin.com/in/dickens-juma-363061182/",
 	"twitter": "@juma_dickens",
 	"twitterURL": "https://twitter.com/juma_dickens",
+	
 	"experiences" : [
 		{
 			"title" : "Full Stack Software Developer Student ",
 			"period": "2019 - Present",
 			"company": "Lakehub, Kisumu",
 			"companyURL": "https://lakehub.co.ke/",
-			"details": "•Developer in 16-week, 680­hour, full stack web development immersive course. • Curriculum covers front and back end web development. Topics covered include HTML5, CSS3, JavaScript,NodeJs,ExpressJS, ReactJs,MongoDB the MERN stack. • Daily procedure included responsive site development, efficient code design, and key principles such as version control, continuous integration, design patterns and analytical thinking to solve problems."
+			"details": "•Developer in 16-week, 680­hour, full stack software development immersive course. • Curriculum covers front and back end web development. Topics covered include HTML5, CSS3, JavaScript,NodeJs,ExpressJS, ReactJs,MongoDB the MERN stack. • Daily procedure included responsive site development, efficient code design, and key principles such as version control, continuous integration, design patterns and analytical thinking to solve problems."
 		}
 		
 	],
@@ -33,6 +36,12 @@
 			"url": "https://pag-kenya.herokuapp.com/",
 			"detail": "A church official website that is integrated with registration and loging options and members can download spiritual books online" 
 		},
+		{
+			"name":"Kadianga Electricals Limited",
+			"url": "http://kadianga.herokuapp.com/",
+			"detail": "Official static E-commerce website to show case or list there produucts and custumers can post or request quotation online."
+		},
+		
 		{
 			"name":"Protein-Tracker-Chrome-extension",
 			"url": "https://github.com/DickensJuma/Protein-Tracker-Chrome-extension",

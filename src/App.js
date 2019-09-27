@@ -66,7 +66,7 @@ class App extends Component {
             <div className="profile-container">
                 <img className="profile" src={resume.image} alt="" />
                 <h1 className="name">{resume.name}</h1>
-                <h3 className="tagline">Full Stack Developer</h3>
+                <h3 className="tagline">Full Stack Software Developer</h3>
             </div>
             
             <div className="contact-container container-block">
@@ -74,6 +74,7 @@ class App extends Component {
                     <li className="email"><i className="fa fa-envelope"></i><a href="mailto: yourname@email.com">{resume.email}</a></li>
                     <li className="phone"><i className="fa fa-phone"></i><a href="tel:0123 456 789">{resume.phone}</a></li>
                     <li className="website"><i className="fa fa-globe"></i><a href={resume.website} target="_blank">{resume.website}</a></li>
+                    <li className="website"><i className="fa fa-linkedin"></i><a href={resume.linkedinURL} target="_blank">{resume.linkedin}</a></li>
                     <li className="twitter"><i className="fa fa-twitter"></i><a href={resume.twitterURL} target="_blank">{resume.twitter}</a></li>
                 </ul>
             </div>
@@ -103,7 +104,7 @@ class App extends Component {
             <section className="section summary-section">
                 <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
                 <div className="summary">
-                    <p>I am a passionate Full-stack web development experience building virtual platforms for organizations at a professional level. My experience with developing software is primarily JavaScript and Node.js, but I am also comfortable using  HTML5, CSS3, and NoSQL databases, among others. I am creative and detail-oriented in designing platforms that are functional and user-friendly. I have a strong understanding of the use of SEO and social media in building brand awareness and gaining visibility in search engine rankings. I also value the use of mobile programming to design a well-rounded platform that caters to the unique needs of each customer I serve.</p>
+                    <p>I am a passionate Full-stack software development experience building virtual platforms for organizations at a professional level. My experience with developing software is primarily JavaScript and Node.js, but I am also comfortable using  HTML5, CSS3, and NoSQL databases, among others. I am creative and detail-oriented in designing platforms that are functional and user-friendly. I have a strong understanding of the use of SEO and social media in building brand awareness and gaining visibility in search engine rankings. I also value the use of mobile programming to design a well-rounded platform that caters to the unique needs of each customer I serve.</p>
                 </div>
             </section>
             
