@@ -2,8 +2,8 @@
 	"name": "Dickens Alphonce Juma",
 	"email": "dickensjuma13@gmail.com",
 	"phone": "070-486-8023",
-	"image": "https://media.licdn.com/dms/image/C4E03AQE4plE_CdkuDA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=pvVMvBxWEhyWOJn8eok46Nf5AMgG7CITlR0G-nBQL64",
-	"website": "LakeHub Academy",
+	"image": "https://media.licdn.com/dms/image/C4E03AQE4plE_CdkuDA/profile-displayphoto-shrink_200_200/0?e=1579132800&v=beta&t=aJfcd7PjHMZoRHa-91E2aa_GcVF-Zdp2R3mHBDFxZqU",
+	"website": "Softwera Inc",
 	"linkedin":"Dickens Juma",
 	"linkedinURL": "https://linkedin.com/in/dickens-juma-363061182/",
 	"twitter": "@juma_dickens",
@@ -11,11 +11,26 @@
 	
 	"experiences" : [
 		{
-			"title" : "Full Stack Software Developer Student ",
-			"period": "2019 - Present",
+			"title" : "Web Developer Freelancer",
+			"period": "October 2019 - Present",
+			"company": "Upwork, USA",
+			"companyURL": "https://upwork.com/",
+			"details": "•Write code in one or more programming or scripting languages, such as JavaScript• Plan and prototype new applications• Design the architecture of the components of an application• Decide on the best technologies and languages for the project• Problem-solve•Fix bugs in existing projects•Test new features thoroughly to ensure they perform the correct task in all cases."
+		},
+		{
+			"title" : "Full Stack Web Developer Student ",
+			"period": "March 2019-October 2019",
 			"company": "Lakehub, Kisumu",
 			"companyURL": "https://lakehub.co.ke/",
-			"details": "•Developer in 16-week, 680­hour, full stack software development immersive course. • Curriculum covers front and back end web development. Topics covered include HTML5, CSS3, JavaScript,NodeJs,ExpressJS, ReactJs,MongoDB the MERN stack. • Daily procedure included responsive site development, efficient code design, and key principles such as version control, continuous integration, design patterns and analytical thinking to solve problems."
+			"details": "•Developer in 16-week, 680­hour, full stack Web development immersive course. • Curriculum covers front and back end web development. Topics covered include HTML5, CSS3, JavaScript,NodeJs,ExpressJS, ReactJs,MongoDB the MERN stack. • Daily procedure included responsive site development, efficient code design, and key principles such as version control, continuous integration, design patterns and analytical thinking to solve problems."
+		},
+		
+		{
+			"title" : "Graphic Designer ",
+			"period": "May 2019 - Present",
+			"company": "Zero To Mastery",
+			"companyURL": "https://zerotomastery.io/",
+			"details": "•Research, incorporate and contribute to Open Source projects•Designing graphical logos•Contributing to the forum thus helping solve programming problems."
 		}
 		
 	],
@@ -26,7 +41,7 @@
 			"detail": "A responsive application designed to help Saccos track their motocylce rides, and clients can request varification of a motorcyle rider though USSD short code using any network reachable phone"
 		},
 		{
-			"name":"EmployeeManagementSystem",
+			"name":"Global Sacco",
 			"url": "https://github.com/DickensJuma/EmployeeManagementSystem",
 			"detail": "A responsive Employee manangement system that can be used to create and manage Employee profile, apply for branch transfer request  and Employee Leave application"
 		},
@@ -38,7 +53,7 @@
 		},
 		{
 			"name":"Kadianga Electricals Limited",
-			"url": "http://kadianga.herokuapp.com/",
+			"url": "http://kadianga.co.ke/",
 			"detail": "Official static E-commerce website to show case or list there produucts and custumers can post or request quotation online."
 		},
 		
@@ -55,28 +70,32 @@
 			"percent": "90%"
 		},
 		{
-			"name": "ReactJS,NodeJS & ExpressJS",
+			"name": "ReactJS",
 			"percent": "80%"
 		},
 		{
-			"name": "HTML5,Jade & CSS3",
+			"name": "NodeJS & ExpressJS",
+			"percent": "80%"
+		},
+		{
+			"name": "HTML5 & CSS3",
 			"percent": "99%"
 		},
 		{
-			"name": "NoSQL Database(MongoDB) & mySql Database",
+			"name": "Graphic Design",
 			"percent": "70%"
 		},
 		{
 			"name": "Sketch & Photoshop",
 			"percent": "85%"
 		},{
-			"name": "Python ",
-			"percent": "45%"
+			"name": "Database",
+			"percent": "65%"
 		}
 	],
 	"education": [
 		{
-			"degree": "Certificate in Fullstack Software Develoment",
+			"degree": "Certificate in Fullstack Web Develoment",
 			"university": "LakeHub Academy",
 			"period": "2019"
 		},
